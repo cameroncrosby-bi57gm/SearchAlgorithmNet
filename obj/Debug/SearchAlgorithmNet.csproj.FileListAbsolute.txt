@@ -5,3 +5,10 @@ D:\CET254 Advanced Programming\Visual Studio Projects\Week 1\SearchAlgorithmNet\
 D:\CET254 Advanced Programming\Visual Studio Projects\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.csproj.CoreCompileInputs.cache
 D:\CET254 Advanced Programming\Visual Studio Projects\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.exe
 D:\CET254 Advanced Programming\Visual Studio Projects\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.pdb
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\bin\Debug\SearchAlgorithmNet.exe.config
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\bin\Debug\SearchAlgorithmNet.exe
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\bin\Debug\SearchAlgorithmNet.pdb
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.csproj.AssemblyReference.cache
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.csproj.CoreCompileInputs.cache
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.exe
+C:\Users\bi57gm\Downloads\Week 1\SearchAlgorithmNet\SearchAlgorithmNet\obj\Debug\SearchAlgorithmNet.pdb

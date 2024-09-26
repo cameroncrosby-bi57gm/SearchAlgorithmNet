@@ -14,7 +14,7 @@ namespace SearchAlgorithmNet
         {
             List<double> listOfDoubles = new List<double>();
 
-            PopulateListWithRandomDoubles(ref listOfDoubles, 10);
+            PopulateListWithRandomDoubles(ref listOfDoubles, 100);
             PrintList(listOfDoubles);
 
             RequestSearch(listOfDoubles);
